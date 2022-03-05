@@ -1,6 +1,3 @@
-/**** Designed by Million_Air in Twitch ****/
-/******* Discord me Million_Air#9087 *******/
-
 /* 기본 설정 */
 :root {
 	--maincolor: #6a49a8;	/* 메인색 */
@@ -50,18 +47,6 @@ select.form-control {
 html { background: var(--bgcolor); }
 body { background: transparent !important; }
 
-
-/************ 헤더 ************/
-/* 트게더 로고 */
-/* 로고 변경시 주석 해제 후 url 안에 이미지 주소 입력 */
-/*header .row>div:nth-child(1)>a>img {
-	content: url();
-	height: 50px;
-}*/
-/* 다크모드용 로고 */
-/*html.darkmode header .row>div:nth-child(1)>a>img {
-	content: url();
-}*/
 
 /* 헤더 검색창 */
 header #right-search-form>input[type=text] {
@@ -357,18 +342,6 @@ a.custom-badge-link {
     border: none !important;
 }
 
-/* 상단으로 이동 */ 
-/* 사용시 주석 해제 후 url 안에 이미지 주소 입력 */
-/* #movetotop img{display:none}
-#movetotop {
-	display: inline-block;
-	opacity: 1;
-	background: url();
-	width: 120px;
-	height: 120px;
-	background-size: contain;
-	background-repeat: no-repeat;
-} */
 
 
 /******* 애니메이션 *******/
